@@ -1,0 +1,33 @@
+body{
+    font-family: "Arial";
+}
+
+h1{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+.comensales{
+    background-color: yellow;
+}
+
+.dificultad{
+    background-color: green;
+}
+
+table,td{
+    border: 1px solid black;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+td.ingredientes{
+    background-color: pink;
+    padding-right: 100px;
+}
+
+
+
